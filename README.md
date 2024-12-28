@@ -20,7 +20,7 @@ This project demonstrates how to use Elastic Stack (ELK) for incident response. 
 - Winscp (Moving files between VMs).
 - Putty.
 
-### Diagram 
+### Network Diagram 
 ![Diagramme sans nom](https://github.com/user-attachments/assets/129c781e-2e0b-47a4-acd0-0d2fd67723c4)
 
 
